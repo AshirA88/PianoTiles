@@ -23,3 +23,6 @@ pip install opencv-python
 5. Click on "Start"
 
 ![run](https://user-images.githubusercontent.com/67638193/97987648-aa8b7980-1e01-11eb-8ce0-76297a31ff5e.gif)
+
+##### Note
+The Code uploaded is for Full Screen version of the game
