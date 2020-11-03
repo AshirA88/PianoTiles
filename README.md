@@ -22,7 +22,8 @@ pip install opencv-python
 4. Run the Code
 5. Click on "Start"
 
-![run](https://user-images.githubusercontent.com/67638193/97987648-aa8b7980-1e01-11eb-8ce0-76297a31ff5e.gif)
+![run](https://user-images.githubusercontent.com/67638193/97998923-b3d01280-1e10-11eb-9ce8-b1d3a8d90da8.gif)
 
 ### Note
 The Code uploaded is for Full Screen version of the game so make the changes accordingly.
+link to given game -> https://www.agame.com/game/magic-piano-tiles
