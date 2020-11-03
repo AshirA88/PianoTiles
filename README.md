@@ -13,7 +13,7 @@ pip install opencv-python
 1. Install all the Libraries
 2. Open the online version of Piano Tiles and with the command ``` pyautogui.displayMousePosition()``` get the position of the coloumns
 
-![find position](https://user-images.githubusercontent.com/67638193/97983952-0eab3f00-1dfc-11eb-8693-1ec4b1108b28.png)
+![findPosition](https://user-images.githubusercontent.com/67638193/97998266-e594a980-1e0f-11eb-8493-a6facaf32e1f.gif)
 
 3. Edit the code according to the position of your game
 
